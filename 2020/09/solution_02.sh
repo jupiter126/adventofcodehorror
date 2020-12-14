@@ -1,3 +1,4 @@
+# somehow I derived the answer from that I guess... :s
 numberarray=($(cat input.txt))
 target=105950735 # from part 1
 startposition=0

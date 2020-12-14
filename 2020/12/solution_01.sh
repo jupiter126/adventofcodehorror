@@ -1,5 +1,6 @@
-#not 294
-#not 897
+#not working - solves example but not real data
+# not 294
+# not 897
 ########
 inputfile="input.txt"
 offset=0  # avoid being negative ???

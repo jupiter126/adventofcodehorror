@@ -1,3 +1,5 @@
+# NOT WORKING
+#not even close... useless
 ssearching=("shiny gold")
 
 function f_checkbag {
@@ -20,8 +22,8 @@ f_checkbag "$ssearching"
 
 curnumlines="X"
 while [[ "$curnumlines" != "$oldnumlines" ]]; do
-	oldnumlines=$(cat temp.txt | wc -l)
+	oldnumlines=$(wc -l temp.txt)
 	f_buildfile
 	f_cleanfile
-	curnumlines=$(cat temp.txt | wc -l)
+	curnumlines=$(wc -l temp.txt)
 done

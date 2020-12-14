@@ -1,4 +1,5 @@
-# 11884151942312 ==> what I need   $((11884151942312-8207659936936))
+# This one works on example but not on data...
+# 11884151942312 ==> what I need (I cheated to check)
 # 9677107934398 too low
 # 8207659936936 too low
 # Works on test input but not on real one!

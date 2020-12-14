@@ -1,3 +1,5 @@
+#not working
+
 accumulator="0"
 lline="1"
 llines=(0)

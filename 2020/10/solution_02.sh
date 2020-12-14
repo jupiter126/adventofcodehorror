@@ -1,3 +1,5 @@
+#not working, not even close...
+
 # add a 0 in file for init state
 cat input.txt |sort -n>input2.txt
 
