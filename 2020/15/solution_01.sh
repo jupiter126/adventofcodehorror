@@ -1,7 +1,7 @@
-# solves one and two... but two should take a looong time!
+# should solve one and two... but two would take a looong time!
 # for two change the number of loops
-lloops="30000002"
-#lloops="2022"
+#lloops="30000002"
+lloops="2022"
 #used sql... tired of parsing arrays in bash
 source sqlsettings.sh
 # CREATE TABLE aoc (id int(8) UNSIGNED AUTO_INCREMENT PRIMARY KEY, data int(32));
